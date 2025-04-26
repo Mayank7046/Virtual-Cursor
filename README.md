@@ -20,7 +20,7 @@ python object_detection.py
 
 - The program will automatically download the required YOLO model files on first run
 - Once started, it will open your webcam and begin detecting objects in real-time
-- Press 'q' to quit the program
+- Press 'esc' to quit the program
 
 ## Features
 
