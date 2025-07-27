@@ -1,8 +1,7 @@
+streamlit
+mediapipe
 opencv-python
 numpy
-mediapipe
-pyautogui
-requests
 pygments==2.19.2
 rich==14.1.0
 markdown-it-py==3.0.0
